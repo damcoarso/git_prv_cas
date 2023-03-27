@@ -1,1 +1,12 @@
+commit 925f99404a8486d3e8337e16d963b6d0ba23070f (HEAD -> main, origin/main)
+Author: Damjan Arsovski <damjanarsovski23@gmail.com>
+Date:   Wed Mar 22 20:46:54 2023 +0100
+
+    moite licni podatoci
+
+commit 0fb9ecf83ab35271bf9cb2d0f958444c99c34100
+Author: Damjan Arsovski <damjanarsovski23@gmail.com>
+Date:   Wed Mar 22 20:19:21 2023 +0100
+
+    dodavanje na tret i cetvrt fajl
 
